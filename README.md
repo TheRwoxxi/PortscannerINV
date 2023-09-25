@@ -11,6 +11,6 @@
 
 -cd PortscannerINV
 
--python3 PortscannerINV.py
+-python3 Portscanner.py
 
 -iyi kullanımlar dilerim.
